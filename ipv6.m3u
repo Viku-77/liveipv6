@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.112114.xyz/?ch={name}&date={date}"
+#EXTM3U x-tvg-url="http://epg.112114.xyz"
 #EXTINF:-1 tvg-id="" tvg-name="咪咕4K" tvg-logo="" group-title="🇨🇳IPV6咪咕体育",咪咕4K
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226080/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="咪咕体育1" tvg-logo="" group-title="🇨🇳IPV6咪咕体育",咪咕体育1
@@ -244,6 +244,7 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226153/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇨🇳IPV6其他频道",哈哈炫动
 
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226161/index.m3u8#http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226175/index.m3u8
+
 
 
 

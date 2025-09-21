@@ -206,7 +206,7 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225767/index.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225768/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="欢笑剧场" tvg-logo="" group-title="🇨🇳IPV6其他频道",欢笑剧场
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225771/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CETV1" tvg-logo="https://epg-1.iill.top/logo/CETV1.png" group-title="🇨🇳IPV6央视频道",CETV1
+#EXTINF:-1 tvg-id="" tvg-name="CETV1" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CETV1.png" group-title="🇨🇳IPV6央视频道",CETV1
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225775/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="法治天地" tvg-logo="https://epg-1.iill.top/logo/法治天地.png" group-title="🇨🇳IPV6其他频道",法治天地
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225994/index.m3u8
@@ -240,6 +240,7 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226139/index.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226153/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="哈哈炫动" tvg-logo="https://epg-1.iill.top/logo/哈哈炫动.png" group-title="🇨🇳IPV6其他频道",哈哈炫动
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226161/index.m3u8#http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226175/index.m3u8
+
 
 
 

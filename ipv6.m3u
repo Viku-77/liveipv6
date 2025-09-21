@@ -102,7 +102,7 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225701/index.m3u8#http://[2409:808
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225736/index.m3u8#http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226167/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV9" tvg-logo="https://epg-1.iill.top/logo/CCTV9.png" group-title="🇨🇳IPV6央视直播",CCTV9
 https://tv.iill.top/x/cctv9
-#EXTINF:-1 tvg-id="" tvg-name="CCTV10" tvg-logo="https://epg-1.iill.top/logo/cctv1O.png" group-title="🇨🇳IPV6央视直播",CCTV10
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10" tvg-logo="https://epg-1.iill.top/logo/CCTV1O.png" group-title="🇨🇳IPV6央视直播",CCTV10
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225743/index.m3u8#http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226169/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV11" tvg-logo="https://epg-1.iill.top/logo/CCTV11.png" group-title="🇨🇳IPV6央视直播",CCTV11
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226101/index.m3u8#http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226145/index.m3u8
@@ -126,7 +126,7 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225724/index.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226154/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="https://epg-1.iill.top/logo/东方卫视.png" group-title="🇨🇳IPV6卫视直播",东方卫视
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225725/index.m3u8#http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226106/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="湖南卫视" group-title="🇨🇳IPV6卫视直播",湖南卫视
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="https://epg-1.iill.top/logo/湖南卫视.png" group-title="🇨🇳IPV6卫视直播",湖南卫视
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225726/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="https://epg-1.iill.top/logo/浙江卫视.png" group-title="🇨🇳IPV6卫视直播",浙江卫视
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225727/index.m3u8
@@ -152,7 +152,7 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225747/index.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225773/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="厦门卫视" tvg-logo="https://epg-1.iill.top/logo/厦门卫视.png" group-title="🇨🇳IPV6卫视直播",厦门卫视
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226008/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="内蒙古卫视" tvg-logo="https://epg-1.iill.top/logo/内蒙古卫视.png" group-title="🇨🇳IPV6卫视直播",内蒙古卫视
+#EXTINF:-1 tvg-id="" tvg-name="内蒙古卫视" tvg-logo="https://epg-1.iill.top/logo/内蒙卫视.png" group-title="🇨🇳IPV6卫视直播",内蒙古卫视
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226011/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-logo="https://epg-1.iill.top/logo/吉林卫视.png" group-title="🇨🇳IPV6卫视直播",吉林卫视
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226082/index.m3u8#http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226149/index.m3u8
@@ -245,6 +245,7 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226153/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇨🇳IPV6其他频道",哈哈炫动
 
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226161/index.m3u8#http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226175/index.m3u8
+
 
 
 

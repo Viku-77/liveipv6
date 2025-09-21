@@ -232,7 +232,7 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226118/index.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226123/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="东方财经" tvg-logo="https://epg-1.iill.top/logo/东方财经.png" group-title="🇨🇳IPV6其他频道",东方财经
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226134/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="新闻综合" tvg-logo="https://epg-1.iill.top/logo/新闻综合.png" group-title="🇨🇳IPV6其他频道",新闻综合
+#EXTINF:-1 tvg-id="" tvg-name="新闻综合" tvg-logo="https://epg-1.iill.top/logo/东方新闻综合.png" group-title="🇨🇳IPV6其他频道",东方新闻综合
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226136/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="睛彩广场舞" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/睛彩广场舞.png" group-title="🇨🇳IPV6其他频道",睛彩广场舞
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226139/index.m3u8
@@ -240,6 +240,7 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226139/index.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226153/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="哈哈炫动" tvg-logo="https://epg-1.iill.top/logo/哈哈炫动.png" group-title="🇨🇳IPV6其他频道",哈哈炫动
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226161/index.m3u8#http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226175/index.m3u8
+
 
 
 

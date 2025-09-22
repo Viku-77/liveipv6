@@ -184,7 +184,7 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226117/index.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226140/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="东方财经" tvg-logo="https://epg-1.iill.top/logo/东方财经.png" group-title="🇨🇳IPV6其他频道",东方财经
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226134/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/新闻综合.png" group-title="🇨🇳IPV6其他频道",新闻综合
+#EXTINF:-1 tvg-id="" tvg-name="新闻综合" tvg-logo="https://epg-1.iill.top/logo/新闻综合.png" group-title="🇨🇳IPV6其他频道",新闻综合
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226136/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CETV4" tvg-logo="https://epg-1.iill.top/logo/CETV4.png" group-title="🇨🇳IPV6央视频道",CETV4
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226153/index.m3u8
@@ -264,6 +264,7 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225696/index.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225697/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="咪咕体育40" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="🇨🇳IPV6咪咕体育",咪咕体育40
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225699/index.m3u8
+
 
 
 

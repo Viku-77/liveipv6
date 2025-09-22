@@ -78,6 +78,12 @@ https://live.ottiptv.cc/mcp/dyjc.m3u8?userid=8005803041&sign=ba90dc9b968fce2a274
 https://live.ottiptv.cc/mcp/fyjc.m3u8?userid=8005803041&sign=5c251777ac406f1488084f83f2629a7f23f09fb0c03e67bf146a359d66dd2e8fe607640361f2881afdbc7cce93505d0a0ce8f16479eb4900f92c0fe1aad5354405d888132ee1ef183fa48f55&auth_token=78af9088149b3a11b8ab26606ef489c6
 #EXTINF:-1 tvg-id="" tvg-name="CCTV怀旧剧场" tvg-logo="https://raw.githubusercontent.com/Viku-77/liveipv6/Viku/img/怀旧剧场.png" group-title="🇨🇳IPV6央视直播",CCTV怀旧剧场
 https://live.ottiptv.cc/mcp/hjjc.m3u8?userid=8005803041&sign=0854f5ccfbc9f1ff3afa29e9fc7510b7aa3d7f2ecd9969baa86b5e5a94f3b6f7efad11ba4777a516815ae3f3770b35326b37509a0c3fe25bb9f5adc6ff67fdb0c0a2c376ea81a75fb8fd036b&auth_token=78af9088149b3a11b8ab26606ef489c6
+#EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/Viku-77/liveipv6/Viku/img/CGTN.png" group-title="🇨🇳IPV6央视直播",CGTN
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226016/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/Viku-77/liveipv6/Viku/img/CETV1.png" group-title="🇨🇳IPV6央视直播",CETV1
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225775/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/Viku-77/liveipv6/Viku/img/CETV4.png" group-title="🇨🇳IPV6央视直播",CETV4
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226153/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/Viku-77/liveipv6/Viku/img/江苏卫视.png" group-title="🇨🇳IPV6卫视直播",江苏卫视
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225720/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/Viku-77/liveipv6/Viku/img/黑龙江卫视.png" group-title="🇨🇳IPV6卫视直播",黑龙江卫视
@@ -180,12 +186,10 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225767/index.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225768/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="欢笑剧场" tvg-logo="https://raw.githubusercontent.com/Viku-77/liveipv6/Viku/img/欢笑剧场.png" group-title="🇨🇳IPV6其他频道",欢笑剧场
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225771/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/Viku-77/liveipv6/Viku/img/CETV1.png" group-title="🇨🇳IPV6央视频道",CETV1
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225775/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="法治天地" tvg-logo="https://raw.githubusercontent.com/Viku-77/liveipv6/Viku/img/法治天地.png" group-title="🇨🇳IPV6其他频道",法治天地
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225994/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/Viku-77/liveipv6/Viku/img/CGTN.png" group-title="🇨🇳IPV6央视频道",CGTN
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226016/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="重温经典" tvg-logo="https://raw.githubusercontent.com/Viku-77/liveipv6/Viku/img/重温经典.png" group-title="🇨🇳IPV6其他频道",重温经典
+https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="卡酷少儿" tvg-logo="https://raw.githubusercontent.com/Viku-77/liveipv6/Viku/img/卡酷少儿.png" group-title="🇨🇳IPV6其他频道",卡酷少儿
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226019/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="卡通动画" tvg-logo="https://raw.githubusercontent.com/Viku-77/liveipv6/Viku/img/嘉佳卡通.png" group-title="🇨🇳IPV6其他频道",嘉佳卡通
@@ -202,8 +206,6 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226117/index.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226140/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="东方财经" tvg-logo="https://raw.githubusercontent.com/Viku-77/liveipv6/Viku/img/东方财经.png" group-title="🇨🇳IPV6其他频道",东方财经
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226134/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/Viku-77/liveipv6/Viku/img/CETV4.png" group-title="🇨🇳IPV6央视频道",CETV4
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226153/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="哈哈炫动" tvg-logo="https://raw.githubusercontent.com/Viku-77/liveipv6/Viku/img/哈哈炫动.png" group-title="🇨🇳IPV6其他频道",哈哈炫动
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226161/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="哈哈炫动" tvg-logo="https://raw.githubusercontent.com/Viku-77/liveipv6/Viku/img/哈哈炫动.png" group-title="🇨🇳IPV6其他频道",哈哈炫动
@@ -282,6 +284,7 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225696/index.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225697/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="咪咕体育40" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="🇨🇳IPV6咪咕体育",咪咕体育40
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225699/index.m3u8
+
 
 
 

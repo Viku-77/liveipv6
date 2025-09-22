@@ -76,7 +76,7 @@ https://live.ottiptv.cc/mcp/cctv8k.m3u8?userid=8005803041&sign=6513ab17d1525b070
 https://live.ottiptv.cc/mcp/dyjc.m3u8?userid=8005803041&sign=ba90dc9b968fce2a27459a0159f09f5db1dd1a852c49cd08835b7f0d43cd748f9a4b33f869c6867dce0e478056a1c5b4434f27ecd8f6a076dfefbae10246c679afe90eb0f1050be833c46f93&auth_token=78af9088149b3a11b8ab26606ef489c6
 #EXTINF:-1 tvg-id="" tvg-name="CCTV风云剧场" tvg-logo="https://raw.githubusercontent.com/Viku-77/liveipv6/Viku/img/风云剧场.png" group-title="🇨🇳IPV6央视直播",CCTV风云剧场
 https://live.ottiptv.cc/mcp/fyjc.m3u8?userid=8005803041&sign=5c251777ac406f1488084f83f2629a7f23f09fb0c03e67bf146a359d66dd2e8fe607640361f2881afdbc7cce93505d0a0ce8f16479eb4900f92c0fe1aad5354405d888132ee1ef183fa48f55&auth_token=78af9088149b3a11b8ab26606ef489c6
-#EXTINF:-1 tvg-id="" tvg-name="CCTV怀旧剧场" tvg-logo="https://raw.githubusercontent.com/Viku-77/liveipv6/Viku/img/第一剧场.png" group-title="🇨🇳IPV6央视直播",CCTV怀旧剧场
+#EXTINF:-1 tvg-id="" tvg-name="CCTV怀旧剧场" tvg-logo="https://raw.githubusercontent.com/Viku-77/liveipv6/Viku/img/怀旧剧场.png" group-title="🇨🇳IPV6央视直播",CCTV怀旧剧场
 https://live.ottiptv.cc/mcp/hjjc.m3u8?userid=8005803041&sign=0854f5ccfbc9f1ff3afa29e9fc7510b7aa3d7f2ecd9969baa86b5e5a94f3b6f7efad11ba4777a516815ae3f3770b35326b37509a0c3fe25bb9f5adc6ff67fdb0c0a2c376ea81a75fb8fd036b&auth_token=78af9088149b3a11b8ab26606ef489c6
 #EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/Viku-77/liveipv6/Viku/img/江苏卫视.png" group-title="🇨🇳IPV6卫视直播",江苏卫视
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225720/index.m3u8
@@ -282,6 +282,7 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225696/index.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225697/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="咪咕体育40" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="🇨🇳IPV6咪咕体育",咪咕体育40
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225699/index.m3u8
+
 
 
 

@@ -21,6 +21,8 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225734/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV5.png" group-title="🇨🇳IPV6央视直播",CCTV5
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226146/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV5+.png" group-title="🇨🇳IPV6央视直播",CCTV5+
+https://live.ottiptv.cc/mcp/cctv5p.m3u8?userid=8005803041&sign=4ac64b5368cb25c61d13deaa4a34fec15ca7b55940ca5560c7c1a84e0639955cf09e9155aacc72288bbe5e7557f69a0ef86055b5db0bc10377063ae6771d824c4051d4d12be554d1f6cd4bb332e0&auth_token=78af9088149b3a11b8ab26606ef489c6
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV5+.png" group-title="🇨🇳IPV6央视直播",CCTV5+
 https://tv.iill.top/x/cctv5+
 #EXTINF:-1 tvg-id="" tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV6.png" group-title="🇨🇳IPV6央视直播",CCTV6
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225741/index.m3u8
@@ -36,6 +38,8 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226143/index.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225736/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV8.png" group-title="🇨🇳IPV6央视直播",CCTV8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226167/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV9.png" group-title="🇨🇳IPV6央视直播",CCTV9
+https://live.ottiptv.cc/mcp/cctv9.m3u8?userid=8005803041&sign=4672df5e2d877493fe243401cabaa57e09229d34d9c55156c51be440220f2a29d2f3de3ee1bc48dbd69006b9e15212fb555386b06a7c1d60b1d539ddf6c075104622af6cb99d2a384ff8455b8f&auth_token=78af9088149b3a11b8ab26606ef489c6
 #EXTINF:-1 tvg-id="" tvg-name="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV9.png" group-title="🇨🇳IPV6央视直播",CCTV9
 https://tv.iill.top/x/cctv9
 #EXTINF:-1 tvg-id="" tvg-name="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV10.png" group-title="🇨🇳IPV6央视直播",CCTV10
@@ -60,6 +64,8 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226150/index.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226147/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV16.png" group-title="🇨🇳IPV6央视直播",CCTV16
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226120/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV17.png" group-title="🇨🇳IPV6央视直播",CCTV17
+https://live.ottiptv.cc/mcp/cctv17.m3u8?userid=8005803041&sign=b3d79b1c79c3f0e43959b364b52ed95c52188f49f093822a2832e79a67e4d4fbb154309ceb21d49121ecd94f0c23db2599fbaaeee1d32d679027c73fb190b0c6fb045334b9c766eb823b3922b4e6&auth_token=78af9088149b3a11b8ab26606ef489c6
 #EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="https://epg-1.iill.top/logo/江苏卫视.png" group-title="🇨🇳IPV6卫视直播",江苏卫视
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225720/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-logo="https://epg-1.iill.top/logo/黑龙江卫视.png" group-title="🇨🇳IPV6卫视直播",黑龙江卫视
@@ -264,6 +270,7 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225696/index.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225697/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="咪咕体育40" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="🇨🇳IPV6咪咕体育",咪咕体育40
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225699/index.m3u8
+
 
 
 

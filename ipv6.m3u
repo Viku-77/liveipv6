@@ -22,24 +22,6 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225644/index.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225646/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="咪咕体育10" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="🇨🇳IPV6咪咕体育",咪咕体育10
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225657/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="咪咕体育11" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="🇨🇳IPV6咪咕体育",咪咕体育11
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225663/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="咪咕体育12" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="🇨🇳IPV6咪咕体育",咪咕体育12
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225664/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="咪咕体育13" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="🇨🇳IPV6咪咕体育",咪咕体育13
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225665/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="咪咕体育14" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="🇨🇳IPV6咪咕体育",咪咕体育14
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225666/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="咪咕体育15" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="🇨🇳IPV6咪咕体育",咪咕体育15
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225667/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="咪咕体育16" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="🇨🇳IPV6咪咕体育",咪咕体育16
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225669/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="咪咕体育17" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="🇨🇳IPV6咪咕体育",咪咕体育17
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225670/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="咪咕体育18" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="🇨🇳IPV6咪咕体育",咪咕体育18
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225671/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="咪咕体育19" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="🇨🇳IPV6咪咕体育",咪咕体育19
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225673/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="咪咕体育20" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="🇨🇳IPV6咪咕体育",咪咕体育20
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225674/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="咪咕体育21" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="🇨🇳IPV6咪咕体育",咪咕体育21
@@ -82,7 +64,7 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225695/index.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225696/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="咪咕体育40" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="🇨🇳IPV6咪咕体育",咪咕体育40
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225697/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="咪咕体育41" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="🇨🇳IPV6咪咕体育",咪咕体育41
+#EXTINF:-1 tvg-id="" tvg-name="咪咕体育40" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="🇨🇳IPV6咪咕体育",咪咕体育40
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225699/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV1.png" group-title="🇨🇳IPV6央视直播",CCTV1
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225770/index.m3u8#http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226163/index.m3u8#http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225723/index.m3u8
@@ -238,6 +220,7 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226118/index.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226116/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="睛彩广场舞" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/睛彩广场舞.png" group-title="🇨🇳IPV6其他频道",睛彩广场舞
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226139/index.m3u8
+
 
 
 

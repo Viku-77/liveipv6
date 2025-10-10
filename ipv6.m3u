@@ -260,8 +260,8 @@ http://113.45.240.129:35455/huya/21059587
 http://113.45.240.129:35455/huya/30080254
 #EXTINF:-1 tvg-id="" tvg-name="四驱兄弟" tvg-logo="" group-title="🇨🇳动漫直播",四驱兄弟
 http://113.45.240.129:35455/huya/11352922
-#EXTINF:-1 tvg-id="" tvg-name="中华小当家" tvg-logo="" group-title="🇨🇳动漫直播",中华小当家
-https://live.iill.top/huya/11342413
+#EXTINF:-1 tvg-id="" tvg-name="虹猫蓝兔" tvg-logo="" group-title="🇨🇳动漫直播",虹猫蓝兔
+http://113.45.240.129:35455/huya/22592516
 #EXTINF:-1 tvg-id="" tvg-name="中华小当家" tvg-logo="" group-title="🇨🇳动漫直播",中华小当家
 http://113.45.240.129:35455/huya/11342413
 #EXTINF:-1 tvg-id="" tvg-name="一人之上" tvg-logo="" group-title="🇨🇳动漫直播",一人之上
@@ -342,4 +342,5 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225696/index.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225697/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="咪咕体育40" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="🇨🇳咪咕体育",咪咕体育40
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225699/index.m3u8
+
 

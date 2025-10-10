@@ -120,7 +120,7 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225745/index.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225747/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="康巴卫视" tvg-logo="https://tvv.tw/https://raw.githubusercontent.com/Viku-77/liveipv6/Viku/img/康巴卫视.png" group-title="🇨🇳卫视直播",康巴卫视
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225773/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="厦门卫视" tvg-logo="https://raw.githubusercontent.com/Viku-77/liveipv6/Viku/img/厦门卫视.png" group-title="🇨🇳卫视直播",厦门卫视
+#EXTINF:-1 tvg-id="" tvg-name="厦门卫视" tvg-logo="https://tvv.tw/https://raw.githubusercontent.com/Viku-77/liveipv6/Viku/img/厦门卫视.png" group-title="🇨🇳卫视直播",厦门卫视
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226008/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="内蒙古卫视" tvg-logo="https://tvv.tw/https://raw.githubusercontent.com/Viku-77/liveipv6/Viku/img/内蒙古卫视.png" group-title="🇨🇳卫视直播",内蒙古卫视
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226011/index.m3u8
@@ -154,11 +154,11 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226151/index.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226111/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="山西卫视" tvg-logo="https://tvv.tw/https://raw.githubusercontent.com/Viku-77/liveipv6/Viku/img/山西卫视.png" group-title="🇨🇳卫视直播",山西卫视
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226113/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/Viku-77/liveipv6/Viku/img/河南卫视.png" group-title="🇨🇳卫视直播",河南卫视
+#EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-logo="https://tvv.tw/https://raw.githubusercontent.com/Viku-77/liveipv6/Viku/img/河南卫视.png" group-title="🇨🇳卫视直播",河南卫视
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226132/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-logo="https://tvv.tw/https://raw.githubusercontent.com/Viku-77/liveipv6/Viku/img/四川卫视.png" group-title="🇨🇳卫视直播",四川卫视
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226152/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/Viku-77/liveipv6/Viku/img/重庆卫视.png" group-title="🇨🇳卫视直播",重庆卫视
+#EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-logo="https://tvv.tw/https://raw.githubusercontent.com/Viku-77/liveipv6/Viku/img/重庆卫视.png" group-title="🇨🇳卫视直播",重庆卫视
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226171/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-logo="https://tvv.tw/https://raw.githubusercontent.com/Viku-77/liveipv6/Viku/img/贵州卫视.png" group-title="🇨🇳卫视直播",贵州卫视
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226173/index.m3u8
@@ -340,4 +340,5 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225696/index.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225697/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="咪咕体育40" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="🇨🇳咪咕体育",咪咕体育40
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225699/index.m3u8
+
 

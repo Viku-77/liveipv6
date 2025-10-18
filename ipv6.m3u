@@ -290,7 +290,7 @@ http://113.45.240.129:35455/huya/11352889
 http://113.45.240.129:35455/huya/11352882
 #EXTINF:-1 tvg-id="" tvg-name="喜羊羊和灰太狼" tvg-logo="" group-title="🇨🇳动漫直播",喜羊羊和灰太狼
 https://live.iill.top/huya/23865080
-#EXTINF:-1 tvg-id="" tvg-name="斗罗大陆" tvg-logo="" group-title="🇨🇳剧场直播",斗罗大陆
+#EXTINF:-1 tvg-id="" tvg-name="斗罗大陆" tvg-logo="" group-title="🇨🇳动漫直播",斗罗大陆
 http://113.45.240.129:35455/huya/11352906
 #EXTINF:-1 tvg-id="" tvg-name="埋堆堆直播1" tvg-logo="" group-title="🇨🇳动漫直播",埋堆堆直播1
 http://113.45.240.129:35455/huya/23734246
@@ -421,6 +421,7 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225696/index.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225697/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="咪咕体育40" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="🇨🇳咪咕体育",咪咕体育40
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225699/index.m3u8
+
 
 
 

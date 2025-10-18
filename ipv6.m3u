@@ -206,6 +206,8 @@ http://113.45.240.129:35455/huya/11352935
 http://113.45.240.129:35455/huya/11602043
 #EXTINF:-1 tvg-id="" tvg-name="黄渤" tvg-logo="" group-title="🇨🇳电影直播",黄渤
 http://113.45.240.129:35455/huya/11352876
+#EXTINF:-1 tvg-id="" tvg-name="唐人街探案" tvg-logo="" group-title="🇨🇳电影直播",唐人街探案
+http://113.45.240.129:35455/huya/20969137
 #EXTINF:-1 tvg-id="" tvg-name="陆小凤系列" tvg-logo="" group-title="🇨🇳电影直播",陆小凤系列
 http://113.45.240.129:35455/huya/11342427
 #EXTINF:-1 tvg-id="" tvg-name="疾速追杀" tvg-logo="" group-title="🇨🇳电影直播",疾速追杀
@@ -398,6 +400,7 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225696/index.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225697/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="咪咕体育40" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="🇨🇳咪咕体育",咪咕体育40
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225699/index.m3u8
+
 
 
 

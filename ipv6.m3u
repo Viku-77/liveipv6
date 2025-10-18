@@ -177,12 +177,18 @@ http://113.45.240.129:35455/huya/11342430
 http://113.45.240.129:35455/huya/30080238
 #EXTINF:-1 tvg-id="" tvg-name="家有儿女" tvg-logo="" group-title="🇨🇳剧场直播",家有儿女
 http://113.45.240.129:35455/huya/11352872
+#EXTINF:-1 tvg-id="" tvg-name="雄霸天下" tvg-logo="" group-title="🇨🇳剧场直播",雄霸天下
+http://113.45.240.129:35455/huya/11602067
 #EXTINF:-1 tvg-id="" tvg-name="铁齿铜牙纪晓岚" tvg-logo="" group-title="🇨🇳剧场直播",铁齿铜牙纪晓岚
 http://113.45.240.129:35455/huya/11342396
 #EXTINF:-1 tvg-id="" tvg-name="重案六组1" tvg-logo="" group-title="🇨🇳剧场直播",重案六组1
 http://113.45.240.129:35455/huya/23482266
 #EXTINF:-1 tvg-id="" tvg-name="大秦帝国" tvg-logo="" group-title="🇨🇳剧场直播",大秦帝国
 http://113.45.240.129:35455/huya/11352881
+#EXTINF:-1 tvg-id="" tvg-name="终极一班2" tvg-logo="" group-title="🇨🇳剧场直播",终极一班2
+http://113.45.240.129:35455/huya/21059610
+#EXTINF:-1 tvg-id="" tvg-name="王牌对王牌" tvg-logo="" group-title="🇨🇳剧场直播",王牌对王牌
+http://113.45.240.129:35455/huya/29982625
 
 #EXTINF:-1 tvg-id="" tvg-name="周星驰" tvg-logo="" group-title="🇨🇳电影直播",周星驰
 http://113.45.240.129:35455/huya/11342412
@@ -194,40 +200,78 @@ http://113.45.240.129:35455/huya/11342386
 http://113.45.240.129:35455/huya/11342390
 #EXTINF:-1 tvg-id="" tvg-name="刘德华" tvg-logo="" group-title="🇨🇳电影直播",刘德华
 http://113.45.240.129:35455/huya/11342424
+#EXTINF:-1 tvg-id="" tvg-name="古天乐" tvg-logo="" group-title="🇨🇳电影直播",古天乐
+http://113.45.240.129:35455/huya/29982675
 #EXTINF:-1 tvg-id="" tvg-name="洪金宝" tvg-logo="" group-title="🇨🇳电影直播",洪金宝
 http://113.45.240.129:35455/huya/11279251
-#EXTINF:-1 tvg-id="" tvg-name="沈腾" tvg-logo="" group-title="🇨🇳电影直播",沈腾
-http://113.45.240.129:35455/huya/11601968
-#EXTINF:-1 tvg-id="" tvg-name="张卫健" tvg-logo="" group-title="🇨🇳电影直播",张卫健
-http://113.45.240.129:35455/huya/11342423
+#EXTINF:-1 tvg-id="" tvg-name="郭富城" tvg-logo="" group-title="🇨🇳电影直播",郭富城
+http://113.45.240.129:35455/huya/20985865
 #EXTINF:-1 tvg-id="" tvg-name="甄子丹" tvg-logo="" group-title="🇨🇳电影直播",甄子丹
 http://113.45.240.129:35455/huya/11352935
+#EXTINF:-1 tvg-id="" tvg-name="吴京" tvg-logo="" group-title="🇨🇳电影直播",吴京
+http://113.45.240.129:35455/huya/11602045
+#EXTINF:-1 tvg-id="" tvg-name="沈腾" tvg-logo="" group-title="🇨🇳电影直播",沈腾
+http://113.45.240.129:35455/huya/11601968
 #EXTINF:-1 tvg-id="" tvg-name="徐峥" tvg-logo="" group-title="🇨🇳电影直播",徐峥
 http://113.45.240.129:35455/huya/11602043
 #EXTINF:-1 tvg-id="" tvg-name="黄渤" tvg-logo="" group-title="🇨🇳电影直播",黄渤
 http://113.45.240.129:35455/huya/11352876
 #EXTINF:-1 tvg-id="" tvg-name="唐人街探案" tvg-logo="" group-title="🇨🇳电影直播",唐人街探案
 http://113.45.240.129:35455/huya/20969137
+#EXTINF:-1 tvg-id="" tvg-name="韩国电影" tvg-logo="" group-title="🇨🇳电影直播",韩国电影
+http://113.45.240.129:35455/huya/11352884
+#EXTINF:-1 tvg-id="" tvg-name="韩国大片" tvg-logo="" group-title="🇨🇳电影直播",韩国大片
+http://113.45.240.129:35455/huya/26355838
+#EXTINF:-1 tvg-id="" tvg-name="经典电影" tvg-logo="" group-title="🇨🇳电影直播",经典电影
+http://113.45.240.129:35455/huya/30080155
 #EXTINF:-1 tvg-id="" tvg-name="陆小凤系列" tvg-logo="" group-title="🇨🇳电影直播",陆小凤系列
 http://113.45.240.129:35455/huya/11342427
+#EXTINF:-1 tvg-id="" tvg-name="好莱坞电影" tvg-logo="" group-title="🇨🇳电影直播",好莱坞电影
+http://113.45.240.129:35455/huya/23734223
+#EXTINF:-1 tvg-id="" tvg-name="指环王系列" tvg-logo="" group-title="🇨🇳电影直播",指环王系列
+http://113.45.240.129:35455/huya/11342385
+#EXTINF:-1 tvg-id="" tvg-name="哈利波特" tvg-logo="" group-title="🇨🇳电影直播",哈利波特
+http://113.45.240.129:35455/huya/29982669
 #EXTINF:-1 tvg-id="" tvg-name="疾速追杀" tvg-logo="" group-title="🇨🇳电影直播",疾速追杀
 http://113.45.240.129:35455/huya/11279247
 #EXTINF:-1 tvg-id="" tvg-name="杰森斯坦森" tvg-logo="" group-title="🇨🇳电影直播",杰森斯坦森
 http://113.45.240.129:35455/huya/21059588
 #EXTINF:-1 tvg-id="" tvg-name="巨石强森" tvg-logo="" group-title="🇨🇳电影直播",巨石强森
 http://113.45.240.129:35455/huya/21059581
+#EXTINF:-1 tvg-id="" tvg-name="阿汤哥" tvg-logo="" group-title="🇨🇳电影直播",阿汤哥
+http://113.45.240.129:35455/huya/26355792
 #EXTINF:-1 tvg-id="" tvg-name="詹姆斯邦德" tvg-logo="" group-title="🇨🇳电影直播",詹姆斯邦德
 http://113.45.240.129:35455/huya/21059585
+#EXTINF:-1 tvg-id="" tvg-name="敢死队" tvg-logo="" group-title="🇨🇳电影直播",敢死队
+http://113.45.240.129:35455/huya/23864973
 #EXTINF:-1 tvg-id="" tvg-name="怪兽宇宙" tvg-logo="" group-title="🇨🇳电影直播",怪兽宇宙
 http://113.45.240.129:35455/huya/29982674
+#EXTINF:-1 tvg-id="" tvg-name="科幻电影" tvg-logo="" group-title="🇨🇳电影直播",科幻电影
+http://113.45.240.129:35455/huya/23746486
 #EXTINF:-1 tvg-id="" tvg-name="古装武侠" tvg-logo="" group-title="🇨🇳电影直播",古装武侠
 http://113.45.240.129:35455/huya/26355770
 #EXTINF:-1 tvg-id="" tvg-name="动作大片" tvg-logo="" group-title="🇨🇳电影直播",动作大片
 http://113.45.240.129:35455/huya/10871113
-#EXTINF:-1 tvg-id="" tvg-name="国产贺岁" tvg-logo="" group-title="🇨🇳电影直播",国产贺岁
+#EXTINF:-1 tvg-id="" tvg-name="灾难大片" tvg-logo="" group-title="🇨🇳电影直播",灾难大片
+http://113.45.240.129:35455/huya/23728647
+#EXTINF:-1 tvg-id="" tvg-name="国产贺岁1" tvg-logo="" group-title="🇨🇳电影直播",国产贺岁1
 http://113.45.240.129:35455/huya/11601986
+#EXTINF:-1 tvg-id="" tvg-name="国产贺岁2" tvg-logo="" group-title="🇨🇳电影直播",国产贺岁2
+http://113.45.240.129:35455/huya/11352897
+#EXTINF:-1 tvg-id="" tvg-name="国产悬疑" tvg-logo="" group-title="🇨🇳电影直播",国产悬疑
+http://113.45.240.129:35455/huya/11342395
+#EXTINF:-1 tvg-id="" tvg-name="香港赌片" tvg-logo="" group-title="🇨🇳电影直播",香港赌片
+http://113.45.240.129:35455/huya/21059607
+#EXTINF:-1 tvg-id="" tvg-name="战争电影" tvg-logo="" group-title="🇨🇳电影直播",战争电影
+http://113.45.240.129:35455/huya/21059618
+#EXTINF:-1 tvg-id="" tvg-name="赛车电影" tvg-logo="" group-title="🇨🇳电影直播",赛车电影
+http://113.45.240.129:35455/huya/11602051
+#EXTINF:-1 tvg-id="" tvg-name="最佳拍档" tvg-logo="" group-title="🇨🇳电影直播",最佳拍档
+http://113.45.240.129:35455/huya/11342423
 #EXTINF:-1 tvg-id="" tvg-name="王晶导演" tvg-logo="" group-title="🇨🇳电影直播",王晶导演
 http://113.45.240.129:35455/huya/11602058
+#EXTINF:-1 tvg-id="" tvg-name="吴镇宇" tvg-logo="" group-title="🇨🇳电影直播",吴镇宇
+http://113.45.240.129:35455/huya/23865096
 
 #EXTINF:-1 tvg-id="" tvg-name="名侦探柯南" tvg-logo="" group-title="🇨🇳动漫直播",名侦探柯南
 http://113.45.240.129:35455/huya/30080236
@@ -275,7 +319,9 @@ http://113.45.240.129:35455/huya/11342413
 https://live.iill.top/huya/23865080
 
 #EXTINF:-1 tvg-id="" tvg-name="地球脉动" tvg-logo="" group-title="🇨🇳其他频道",地球脉动
-https://live.iill.top/huya/26355851
+http://113.45.240.129:35455/huya/26355851
+#EXTINF:-1 tvg-id="" tvg-name="中国通史" tvg-logo="" group-title="🇨🇳动漫直播",中国通史
+http://113.45.240.129:35455/huya/20985822
 #EXTINF:-1 tvg-id="" tvg-name="五星体育" tvg-logo="https://tvv.tw/https://raw.githubusercontent.com/Viku-77/liveipv6/Viku/img/五星体育.png" group-title="🇨🇳其他频道",五星体育
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225732/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="第一财经" tvg-logo="https://tvv.tw/https://raw.githubusercontent.com/Viku-77/liveipv6/Viku/img/第一财经.png" group-title="🇨🇳其他频道",第一财经
@@ -400,6 +446,7 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225696/index.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225697/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="咪咕体育40" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="🇨🇳咪咕体育",咪咕体育40
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225699/index.m3u8
+
 
 
 

@@ -208,6 +208,8 @@ http://113.45.240.129:35455/huya/11279251
 http://113.45.240.129:35455/huya/20985865
 #EXTINF:-1 tvg-id="" tvg-name="甄子丹" tvg-logo="" group-title="🇨🇳电影直播",甄子丹
 http://113.45.240.129:35455/huya/11352935
+#EXTINF:-1 tvg-id="" tvg-name="葛优" tvg-logo="" group-title="🇨🇳电影直播",葛优
+http://113.45.240.129:35455/huya/29982661
 #EXTINF:-1 tvg-id="" tvg-name="吴京" tvg-logo="" group-title="🇨🇳电影直播",吴京
 http://113.45.240.129:35455/huya/11602045
 #EXTINF:-1 tvg-id="" tvg-name="沈腾" tvg-logo="" group-title="🇨🇳电影直播",沈腾
@@ -260,8 +262,10 @@ http://113.45.240.129:35455/huya/11601986
 http://113.45.240.129:35455/huya/11352897
 #EXTINF:-1 tvg-id="" tvg-name="国产悬疑" tvg-logo="" group-title="🇨🇳电影直播",国产悬疑
 http://113.45.240.129:35455/huya/11342395
-#EXTINF:-1 tvg-id="" tvg-name="香港赌片" tvg-logo="" group-title="🇨🇳电影直播",香港赌片
+#EXTINF:-1 tvg-id="" tvg-name="香港赌片1" tvg-logo="" group-title="🇨🇳电影直播",香港赌片1
 http://113.45.240.129:35455/huya/21059607
+#EXTINF:-1 tvg-id="" tvg-name="香港赌片2" tvg-logo="" group-title="🇨🇳电影直播",香港赌片2
+http://113.45.240.129:35455/huya/23728665
 #EXTINF:-1 tvg-id="" tvg-name="战争电影" tvg-logo="" group-title="🇨🇳电影直播",战争电影
 http://113.45.240.129:35455/huya/21059618
 #EXTINF:-1 tvg-id="" tvg-name="赛车电影" tvg-logo="" group-title="🇨🇳电影直播",赛车电影
@@ -322,6 +326,8 @@ https://live.iill.top/huya/23865080
 http://113.45.240.129:35455/huya/26355851
 #EXTINF:-1 tvg-id="" tvg-name="中国通史" tvg-logo="" group-title="🇨🇳动漫直播",中国通史
 http://113.45.240.129:35455/huya/20985822
+#EXTINF:-1 tvg-id="" tvg-name="中国秘史" tvg-logo="" group-title="🇨🇳动漫直播",中国秘史
+http://113.45.240.129:35455/huya/20969117
 #EXTINF:-1 tvg-id="" tvg-name="五星体育" tvg-logo="https://tvv.tw/https://raw.githubusercontent.com/Viku-77/liveipv6/Viku/img/五星体育.png" group-title="🇨🇳其他频道",五星体育
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225732/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="第一财经" tvg-logo="https://tvv.tw/https://raw.githubusercontent.com/Viku-77/liveipv6/Viku/img/第一财经.png" group-title="🇨🇳其他频道",第一财经
@@ -446,6 +452,7 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225696/index.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225697/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="咪咕体育40" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="🇨🇳咪咕体育",咪咕体育40
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225699/index.m3u8
+
 
 
 

@@ -165,7 +165,7 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226173/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="实验" tvg-logo="" group-title="🇨🇳电影直播",实验
-http://113.45.240.129:35455/huya/11336726
+http://113.45.240.129:35455/huya/11342396
 
 #EXTINF:-1 tvg-id="" tvg-name="周星驰" tvg-logo="" group-title="🇨🇳电影直播",周星驰
 http://113.45.240.129:35455/huya/11342412
@@ -232,6 +232,8 @@ http://113.45.240.129:35455/huya/11342419
 #EXTINF:-1 tvg-id="" tvg-name="许氏三杰" tvg-logo="" group-title="🇨🇳电影直播",许氏三杰
 http://113.45.240.129:35455/huya/11602033
 
+#EXTINF:-1 tvg-id="" tvg-name="爱情公寓" tvg-logo="" group-title="🇨🇳电影直播",爱情公寓
+http://113.45.240.129:35455/huya/11336726
 #EXTINF:-1 tvg-id="" tvg-name="谍战剧" tvg-logo="" group-title="🇨🇳剧场直播",谍战剧
 http://113.45.240.129:35455/huya/11352880
 #EXTINF:-1 tvg-id="" tvg-name="钢铁战队" tvg-logo="" group-title="🇨🇳剧场直播",钢铁战队
@@ -426,6 +428,7 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225696/index.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225697/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="咪咕体育40" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="🇨🇳咪咕体育",咪咕体育40
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225699/index.m3u8
+
 
 
 

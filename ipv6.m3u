@@ -163,20 +163,80 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226171/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-logo="https://tvv.tw/https://raw.githubusercontent.com/Viku-77/liveipv6/Viku/img/贵州卫视.png" group-title="🇨🇳卫视直播",贵州卫视
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226173/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="神医喜来乐" tvg-logo="" group-title="🇨🇳剧场直播",神医喜来乐
-http://113.45.240.129:35455/huya/21059580
 #EXTINF:-1 tvg-id="" tvg-name="周星驰" tvg-logo="" group-title="🇨🇳剧场直播",周星驰
 http://113.45.240.129:35455/huya/11342412
 #EXTINF:-1 tvg-id="" tvg-name="周润发" tvg-logo="" group-title="🇨🇳剧场直播",周润发
 http://113.45.240.129:35455/huya/11342387
 #EXTINF:-1 tvg-id="" tvg-name="成龙" tvg-logo="" group-title="🇨🇳剧场直播",成龙
 http://113.45.240.129:35455/huya/11342386
-#EXTINF:-1 tvg-id="" tvg-name="漫威电影" tvg-logo="" group-title="🇨🇳剧场直播",漫威电影
-http://113.45.240.129:35455/huya/11602034
-#EXTINF:-1 tvg-id="" tvg-name="蜘蛛侠" tvg-logo="" group-title="🇨🇳剧场直播",蜘蛛侠
-http://113.45.240.129:35455/huya/21059599
-#EXTINF:-1 tvg-id="" tvg-name="喜剧" tvg-logo="" group-title="🇨🇳剧场直播",喜剧
-http://113.45.240.129:35455/douyu/11602031
+#EXTINF:-1 tvg-id="" tvg-name="李连杰" tvg-logo="" group-title="🇨🇳剧场直播",李连杰
+http://113.45.240.129:35455/huya/11342390
+#EXTINF:-1 tvg-id="" tvg-name="刘德华" tvg-logo="" group-title="🇨🇳剧场直播",刘德华
+http://113.45.240.129:35455/huya/11342424
+#EXTINF:-1 tvg-id="" tvg-name="洪金宝" tvg-logo="" group-title="🇨🇳剧场直播",洪金宝
+http://113.45.240.129:35455/huya/11279251
+#EXTINF:-1 tvg-id="" tvg-name="沈腾" tvg-logo="" group-title="🇨🇳剧场直播",沈腾
+http://113.45.240.129:35455/huya/11601968
+#EXTINF:-1 tvg-id="" tvg-name="张卫健" tvg-logo="" group-title="🇨🇳剧场直播",张卫健
+http://113.45.240.129:35455/huya/11342423
+#EXTINF:-1 tvg-id="" tvg-name="王晶" tvg-logo="" group-title="🇨🇳剧场直播",王晶
+http://113.45.240.129:35455/huya/11602058
+#EXTINF:-1 tvg-id="" tvg-name="甄子丹" tvg-logo="" group-title="🇨🇳剧场直播",甄子丹
+http://113.45.240.129:35455/huya/11352935
+#EXTINF:-1 tvg-id="" tvg-name="杰森斯坦森" tvg-logo="" group-title="🇨🇳剧场直播",杰森斯坦森
+http://113.45.240.129:35455/huya/21059588
+#EXTINF:-1 tvg-id="" tvg-name="巨石强森" tvg-logo="" group-title="🇨🇳剧场直播",巨石强森
+http://113.45.240.129:35455/huya/21059581
+#EXTINF:-1 tvg-id="" tvg-name="詹姆斯邦德" tvg-logo="" group-title="🇨🇳剧场直播",詹姆斯邦德
+http://113.45.240.129:35455/huya/21059585
+#EXTINF:-1 tvg-id="" tvg-name="徐克" tvg-logo="" group-title="🇨🇳剧场直播",徐克
+http://113.45.240.129:35455/huya/11352909
+#EXTINF:-1 tvg-id="" tvg-name="徐峥" tvg-logo="" group-title="🇨🇳剧场直播",徐峥
+http://113.45.240.129:35455/huya/11602043
+#EXTINF:-1 tvg-id="" tvg-name="黄渤" tvg-logo="" group-title="🇨🇳剧场直播",黄渤
+http://113.45.240.129:35455/huya/11352876
+#EXTINF:-1 tvg-id="" tvg-name="警匪" tvg-logo="" group-title="🇨🇳剧场直播",警匪
+http://113.45.240.129:35455/huya/11336578
+#EXTINF:-1 tvg-id="" tvg-name="超能" tvg-logo="" group-title="🇨🇳剧场直播",超能
+http://113.45.240.129:35455/huya/21059586
+#EXTINF:-1 tvg-id="" tvg-name="繁花" tvg-logo="" group-title="🇨🇳剧场直播",繁花
+http://113.45.240.129:35455/douyu/21059580
+#EXTINF:-1 tvg-id="" tvg-name="喜剧合家欢" tvg-logo="" group-title="🇨🇳剧场直播",喜剧合家欢
+http://113.45.240.129:35455/huya/11352877
+#EXTINF:-1 tvg-id="" tvg-name="香港贺岁" tvg-logo="" group-title="🇨🇳剧场直播",香港贺岁
+http://113.45.240.129:35455/huya/11601971
+#EXTINF:-1 tvg-id="" tvg-name="贺岁片" tvg-logo="" group-title="🇨🇳剧场直播",贺岁片
+http://113.45.240.129:35455/huya/11352897
+#EXTINF:-1 tvg-id="" tvg-name="大陆贺岁" tvg-logo="" group-title="🇨🇳剧场直播",大陆贺岁
+http://113.45.240.129:35455/huya/11601986
+#EXTINF:-1 tvg-id="" tvg-name="谍战剧" tvg-logo="" group-title="🇨🇳剧场直播",谍战剧
+http://113.45.240.129:35455/huya/11352880
+#EXTINF:-1 tvg-id="" tvg-name="盗墓电影" tvg-logo="" group-title="🇨🇳剧场直播",盗墓电影
+http://113.45.240.129:35455/huya/11601981
+#EXTINF:-1 tvg-id="" tvg-name="港台电影" tvg-logo="" group-title="🇨🇳剧场直播",港台电影
+http://113.45.240.129:35455/huya/880261
+#EXTINF:-1 tvg-id="" tvg-name="高智商电影" tvg-logo="" group-title="🇨🇳剧场直播",高智商电影
+http://113.45.240.129:35455/huya/11352962
+#EXTINF:-1 tvg-id="" tvg-name="陆小凤系列" tvg-logo="" group-title="🇨🇳剧场直播",陆小凤系列
+http://113.45.240.129:35455/huya/11342427
+#EXTINF:-1 tvg-id="" tvg-name="粤语喜剧" tvg-logo="" group-title="🇨🇳剧场直播",粤语喜剧
+http://113.45.240.129:35455/huya/11352894
+#EXTINF:-1 tvg-id="" tvg-name="金庸武侠" tvg-logo="" group-title="🇨🇳剧场直播",金庸武侠
+http://113.45.240.129:35455/huya/11342435
+#EXTINF:-1 tvg-id="" tvg-name="黑帮电影" tvg-logo="" group-title="🇨🇳剧场直播",黑帮电影
+http://113.45.240.129:35455/huya/11342419
+#EXTINF:-1 tvg-id="" tvg-name="许氏三杰" tvg-logo="" group-title="🇨🇳剧场直播",许氏三杰
+http://113.45.240.129:35455/huya/11602033
+#EXTINF:-1 tvg-id="" tvg-name="钢铁战队" tvg-logo="" group-title="🇨🇳剧场直播",钢铁战队
+http://113.45.240.129:35455/huya/11336578
+#EXTINF:-1 tvg-id="" tvg-name="大秦帝国" tvg-logo="" group-title="🇨🇳剧场直播",大秦帝国
+http://113.45.240.129:35455/huya/11352881
+#EXTINF:-1 tvg-id="" tvg-name="大俄战争片" tvg-logo="" group-title="🇨🇳剧场直播",大俄战争片
+http://113.45.240.129:35455/huya/21059574
+#EXTINF:-1 tvg-id="" tvg-name="国产黑帮" tvg-logo="" group-title="🇨🇳剧场直播",国产黑帮
+http://113.45.240.129:35455/huya/21059574
+#EXTINF:-1 tvg-id="" tvg-name="功夫武侠" tvg-logo="" group-title="🇨🇳剧场直播",功夫武侠
+http://113.45.240.129:35455/huya/11352941
 
 #EXTINF:-1 tvg-id="" tvg-name="名侦探柯南" tvg-logo="" group-title="🇨🇳动漫直播",名侦探柯南
 http://113.45.240.129:35455/huya/30080236
@@ -230,6 +290,8 @@ http://113.45.240.129:35455/huya/11352889
 http://113.45.240.129:35455/huya/11352882
 #EXTINF:-1 tvg-id="" tvg-name="喜羊羊和灰太狼" tvg-logo="" group-title="🇨🇳动漫直播",喜羊羊和灰太狼
 https://live.iill.top/huya/23865080
+#EXTINF:-1 tvg-id="" tvg-name="斗罗大陆" tvg-logo="" group-title="🇨🇳剧场直播",斗罗大陆
+http://113.45.240.129:35455/huya/11352906
 #EXTINF:-1 tvg-id="" tvg-name="埋堆堆直播1" tvg-logo="" group-title="🇨🇳动漫直播",埋堆堆直播1
 http://113.45.240.129:35455/huya/23734246
 #EXTINF:-1 tvg-id="" tvg-name="埋堆堆直播2" tvg-logo="" group-title="🇨🇳动漫直播",埋堆堆直播2
@@ -359,6 +421,7 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225696/index.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225697/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="咪咕体育40" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="🇨🇳咪咕体育",咪咕体育40
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225699/index.m3u8
+
 
 
 
